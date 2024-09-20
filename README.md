@@ -44,6 +44,14 @@ Welcome to the Task Scheduler service! This application serves as a service for 
 2. **Hashing and Salt:**
     - System uses hashing and adding salt method to store user creds into database as a best practiced security protocol
 
+## Technologies Used
+- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+- Deployment: ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+- Database: ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- Version Control: ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+
+## Live Links
+- The api service is live on [https://task-scheduler-rvxe.onrender.com](https://task-scheduler-rvxe.onrender.com)
 
 ## Database Design
 
@@ -225,4 +233,4 @@ Below are visual demonstrations of key functionalities within the Flex Yoga Admi
 ## Contributor
 
 [Mukeshkumar1611](https://github.com/Mukeshkumar1611)
-    - Email: [mukesh0895.be21@chitkara.edu.in](mukesh0895.be21@chitkara.edu.in)
+    - Email: [mk550143@gmail.com](mk550143@gmail.com)
